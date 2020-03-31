@@ -16,44 +16,65 @@
 
 ## Tutorial
 CMake – система автоматизации сборки ПО из исходного кода
+
 ~$ cmake --version
+
 cmake version 3.10.2
 
 cURL - утилита командной строки и библиотека для передачи данных с URL-адресами
+
 ~$ curl --version
+
 curl 7.58.0 (x86_64-pc-linux-gnu) libcurl/7.58.0 OpenSSL/1.1.1 zlib/1.2.11 libidn2/2.0.4 libpsl/0.19.1 (+libidn2/2.0.4)   nghttp2/1.30.0 librtmp/2.3
 
 Git – распределенная система управления версиями
+
 ~$ git --version
+
 git version 2.17.1
 
  g++ - компилятор С++ для UNIX – подобных систем
+ 
 ~$ g++ --version 
+
  g++ (Ubuntu 7.5.0-3ubuntu118.04) 7.5.0
  
  hub - это инструмент командной строки, который обертывает git, чтобы расширить его дополнительными функциями и командами, которые облегчают работу с GitHub.
+ 
 ~$ hub --version
+
 hub version 2.2.9
 
  make – утилита, предназначенная для автоматизации преобразования файлов из одной формы в другую
+ 
 ~$ make --version
+
 GNU Make 4.1
 
  tree – утилита для печати каталога в виде дерева (tree)
+ 
 ~$ tree --version
+
 tree v1.7.0 
 
  Sublime Text – Текстовый редактор
+ 
 ~$ subl --version
+
 Sublime Text Build 3211
 
  Wget – консольная программа для загрузки файлов по сети
+ 
 ~$ wget --version
+
 GNU Wget 1.19.4 для linux-gnu.
 
 OpenSSL – криптографическая библиотека с открытым исходным кодом
+
 ~$ openssl
+
 OpenSSL> version
+
 OpenSSL 1.1.1  
 
 
